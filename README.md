@@ -1,1 +1,1 @@
-# chmura
+# frajerska-chmura
